@@ -1,0 +1,268 @@
+Abkhaz
+Acehnese
+Adyghe
+Afrikaans
+Akan
+Albanian
+Amharic
+Arabic
+Aragonese
+Armenian
+Assamese
+Asturian
+Avar
+Avestan
+Aymara
+Azerbaijani
+Bambara
+Bashkir
+Basque
+Bavarian
+Belarusian
+Bengali
+Bhojpuri
+Bislama
+Bosnian
+Breton
+Bulgarian
+Burmese
+Catalan
+Cebuano
+Central Bikol
+Central Kurdish
+Chavacano
+Chechen
+Cherokee
+Chichewa
+Chinese
+Chuvash
+Cornish
+Corsican
+Cree
+Croatian
+Czech
+Danish
+Dari
+Divehi
+Dutch
+Dzongkha
+Egyptian Arabic
+Emilian-Romagnol
+English
+Erzya
+Esperanto
+Estonian
+Ewe
+Faroese
+Fijian
+Finnish
+French
+Fula
+Galician
+Gan Chinese
+Georgian
+German
+Greek (Modern)
+Greenlandic
+Guarani
+Gujarati
+Haitian Creole
+Hakka Chinese
+Hausa
+Hawaiian
+Hebrew
+Hindi
+Hiri Motu
+Hungarian
+Icelandic
+Ido
+Igbo
+Iloko
+Indonesian
+Interlingua
+Interlingue
+Irish
+Italian
+Jamaican Patois
+Japanese
+Javanese
+Kabardian
+Kannada
+Kapampangan
+Karachay-Balkar
+Karakalpak
+Karelian
+Kashubian
+Kazakh
+Khmer
+Kinyarwanda
+Kirundi
+Komi
+Kongo
+Konkani
+Korean
+Kumyk
+Kurdish
+Kyrgyz
+Ladin
+Ladino
+Lahnda
+Lakota
+Lao
+Latin
+Latvian
+Laz
+Lezgian
+Limburgish
+Lingala
+Lithuanian
+Lojban
+Lombard
+Low German
+Lower Sorbian
+Luganda
+Luxembourgish
+Macedonian
+Malagasy
+Malay
+Malayalam
+Maldivian
+Maltese
+Manchu
+Mandinka
+Manipuri
+Manx
+Maori
+Marathi
+Marshallese
+Mazanderani
+Min Dong Chinese
+Min Nan Chinese
+Minangkabau
+Mirandese
+Moksha
+Mongolian
+Montenegrin
+Nahuatl
+Nauruan
+Navajo
+Ndonga
+Neapolitan
+Nepali
+Newari
+Ngāti Porou
+Nias
+Niuean
+Northern Luri
+Northern Sami
+Northern Sotho
+Norwegian
+Novial
+Occitan
+Odia
+Ojibwe
+Old Church Slavonic
+Oriya
+Oromo
+Ossetian
+Pāli
+Palauan
+Pangasinan
+Papiamento
+Pashto
+Pennsylvania German
+Persian (Farsi)
+Piedmontese
+Polish
+Portuguese
+Punjabi
+Quechua
+Rajasthani
+Rapanui
+Rarotongan
+Romani
+Romanian
+Romansh
+Russian
+Rusyn
+Saami
+Sakha
+Samoan
+Samogitian
+Sango
+Sanskrit
+Santali
+Sardinian
+Scots
+Scottish Gaelic
+Serbian
+Serbo-Croatian
+Sesotho
+Shona
+Sicilian
+Sindhi
+Sinhala
+Slovak
+Slovenian
+Somali
+Sotho
+South Azerbaijani
+Southern Kurdish
+Southern Sami
+Southern Sotho
+Spanish
+Sranan Tongo
+Sundanese
+Swahili
+Swazi
+Swedish
+Swiss German
+Syriac
+Tagalog
+Tahitian
+Tajik
+Tamashek
+Tamil
+Tarantino
+Tatar
+Telugu
+Tetum
+Thai
+Tibetan
+Tigrinya
+Tok Pisin
+Tokelauan
+Tongan
+Tornedalian
+Tsonga
+Tswana
+Tumbuka
+Turkish
+Turkmen
+Tuvaluan
+Twi
+Udmurt
+Uighur
+Ukrainian
+Umbundu
+Urdu
+Uyghur
+Uzbek
+Venetian
+Veps
+Vietnamese
+Volapük
+Võro
+Walloon
+Waray
+Welsh
+West Frisian
+Western Armenian
+Western Punjabi
+Wolof
+Xhosa
+Xiang Chinese
+Yiddish
+Yoruba
+Zhuang
+Zulu

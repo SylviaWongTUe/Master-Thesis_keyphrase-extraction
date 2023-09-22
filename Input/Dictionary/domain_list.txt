@@ -1,0 +1,87 @@
+Agriculture
+Agricultural biotechnology
+Animal and dairy science|Animal science|Dairy science|Animal and dairy science
+Anthropology
+Archeology
+Astronomy
+Atmospheric science
+Biochemistry
+Bioengineering
+Bioinformatics
+Biological sciences|Biological science|Biology
+Biomedical engineering
+Biophysics
+Biotechnology
+Business
+Chemical engineering
+Chemistry
+Civil engineering
+Cognitive sciences
+Computational biology
+Computer science|Information science|Computer and information sciences
+Demography
+Earth sciences
+Ecology
+Economics
+Education|Educational Research
+Electrical engineering
+Electrochemistry
+Electronic engineering
+Energy science
+Engineering
+Environmental biotechnology
+Environmental engineering
+Environmental sciences|Environmental science
+Ethics
+Finance
+Fisheries
+Forensic science
+Forestry
+Genetics
+Geochemistry
+Geography
+Geology
+Geophysics
+Government
+Health | Health informatics | Health sciences
+Industrial biotechnology
+Information engineering
+Information science
+Law
+Library Science
+Linguistics
+Manufacturing
+Marine biology
+Marine science
+Mathematics|Maths
+Materials engineering
+Materials science
+Mechanical engineering
+Mechanics
+Medical engineering
+Meteorology
+Microbiology
+Nano-technology|Nanotechnology|Nano technology|Nanoscience|Nano-science
+Neuroscience|Neurology
+Nutrition science
+Oceanography
+Operations Research
+Optics
+Paleontology
+Pharmacy
+Philology
+Physics
+Political Science
+Psychology
+Public administration
+Public health
+Religion|religious
+Remote Sensing
+Robotics
+Sociology|Social Sciences
+Software engineering
+Sustainability
+Telecommunications
+Tourism
+Transportation
+Urban planning
